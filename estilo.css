@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    background-color: rgb(15, 208, 226);
+}
+html{
+    font-family:'Times New Roman', Times, serif
+
+}
+header{
+    background-color: black;
+    color: rgb(100, 237, 141);
+    padding: 3rem 2rem;
+}
+
+header h1{
+    font-size: 3rem;
+    text-align: center;
+}
+.Contenido1{
+    width: 400px;
+    margin: 0 auto;
+}
+section article{
+    transition: box-shadow 0.3s ease;
+    background-color:chartreuse;
+    margin: 1rem 0;
+    border-radius: 0.5rem;
+    padding:0.25rem 0;
+    cursor: no-drop;
+}
+section article h2{
+    text-align: center;
+}
+
